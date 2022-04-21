@@ -1,0 +1,167 @@
+.tahoma{
+    font-family:Tahoma;
+    font-weight: bold;
+}
+
+.biggest{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 0%;
+}
+.sales{
+    font-family: Arial;
+    color: rgb(252, 17, 17);
+    margin-top: 0px;
+    
+}
+
+.html{
+    font-family: verdana;
+    font-weight: bold;
+    margin-bottom: 0%;
+}
+
+.beginner-font{
+    color: gray;
+    margin-top: 1%;
+    font-weight: bold;
+    font-family: verdana;
+}
+
+.course-font{
+    width: 280px;
+    color: rgb(37, 35, 35);
+    font-family: verdana;
+}
+
+button{
+    background-color: rgba(16, 88, 16, 0.815);
+    color: white;
+    font-size: 10px;
+    border: none;
+    padding: 5px 8px;
+    border-radius: 2px;
+}
+
+.align-centre{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Arial;
+}
+
+.see-font{
+    text-align: center;
+    font-size: 12px;
+    font-family: Arial;
+}
+
+.learn-font{
+    text-align: center;
+    font-size: 12px;
+    font-family: Arial;
+    color: rgb(10, 10, 197);  
+}
+
+.new-font{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 10px;
+    font-family: Arial;
+    color: red; 
+}
+
+.macbook-font{
+    text-align: center;
+    font-size: 15px;
+    font-family: Arial;  
+    font-weight: bold;
+    margin-bottom: 1%;
+}
+
+.super-font{
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial;  
+    font-weight: bold;
+
+}
+
+.from-font{
+    text-align: center;
+    font-size: 10px;
+    font-family: Arial;  
+}
+
+.buy-button{
+    background-color: blue;
+    color: white;
+    font-size: 10px;
+    border: none;
+    padding: 5px 8px;
+    border-radius: 2px;
+
+}
+
+.buy-div{
+    text-align: center;  
+}
+.buy{
+    background-color: rgb(0, 113, 227);
+    color: white;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 30px;
+    font-weight: bold;
+    cursor: pointer;
+    text-align: center;
+}
+
+.usd{
+    font-size: 20px;
+    font-family: Arial;  
+    font-weight: bold;
+}
+.span-usd{
+    color: gray;
+    font-weight: bold;
+    font-family: arial; 
+    font-size: small; 
+}
+
+.today{
+    color:green;
+    font-weight: bold;
+    font-family: arial; 
+    font-size: small; 
+    margin-top: 2px;
+}
+
+.after{
+    color: gray;
+    font-weight: bold;
+    font-family: arial; 
+    font-size: small; 
+}
+.span-after{
+    color:red;
+    font-weight: bold;
+    font-family: arial; 
+    font-size: small;   
+}
+
+.span-free{
+    color: gray;
+    font-weight: bold;
+    font-family: arial; 
+    font-size: small;  
+}
+.span-here{
+    color: blue;
+    font-weight: bold;
+    font-family: arial; 
+    font-size: small;
+}
